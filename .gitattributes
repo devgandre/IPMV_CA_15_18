@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+my-big-file.zip filter=lfs diff=lfs merge=lfs -text
